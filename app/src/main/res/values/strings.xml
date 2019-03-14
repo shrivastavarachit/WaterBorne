@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">firebase</string>
+    <string name="title_activity_mapsg">Map</string>
+    <string name="title_activity_heatmap">Map</string>
+    <string name="title_activity_hospitals">Map</string>
+    <string name="title_activity_nearby">Map</string>
+</resources>
